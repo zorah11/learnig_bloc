@@ -5,7 +5,8 @@ class GroceryData {
       'name': 'Milk',
       'price': 2.99,
       'description': 'Fresh whole milk',
-      'url': 'https://www.freeimages.com/photo/milk-1056475',
+      'url':
+          'https://images.pexels.com/photos/5840409/pexels-photo-5840409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
     {
       'id': 2,
@@ -13,7 +14,7 @@ class GroceryData {
       'price': 4.49,
       'description': 'Cheddar cheese block',
       'url':
-          'https://istockphoto.6q33.net/c/246195/270498/4205?u=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Famerican-cheese-slices-gm184995489-18831389&adplacement=srp_freephoto_null-inline-popup&sharedid=cheese&adid=1281084',
+          'https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
     {
       'id': 11,
